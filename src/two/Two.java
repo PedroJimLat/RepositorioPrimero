@@ -18,7 +18,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Pedro
+ * @author Pedro Jiménez Latorre
  */
 public class Two {
 

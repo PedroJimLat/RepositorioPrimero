@@ -13,7 +13,8 @@ import java.util.Random;
 
 /**
  *
- * @author Pedro
+ * @author Pedro Jiménez Latorre
+ * 
  */
 public class One {
     public static void main(String[] args) {
